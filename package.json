@@ -1,9 +1,9 @@
 {
   "name": "personal-tech-radar",
-  "version": "2018.5.0",
+  "version": "1.0.0",
   "description": "Visualizing our technology choices",
-  "homepage": "https://github.com/yauritux/personal-tech-radar#readme",
-  "repository": "https://github.com/yauritux/personal-tech-radar.git",
+  "homepage": "https://github.com/purbohadi/personal-tech-radar#readme",
+  "repository": "https://github.com/purbohadi/personal-tech-radar.git",
   "license": "MIT",
   "directories": {
     "doc": "docs"
